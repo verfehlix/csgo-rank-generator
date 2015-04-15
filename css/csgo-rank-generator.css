@@ -1,0 +1,17 @@
+body {
+	margin: 50px;
+	border-radius: 5px;
+	background-image: url("../img/grey_wash_wall.png");
+	font-family: 'Open Sans';
+	color: white;
+}
+
+.title {
+	color: #D9534F;
+	text-shadow: 3px 3px rgba(0,0,0,0.3);
+}
+
+#gitHubDiv {
+	position:absolute;
+	bottom:0;
+}
